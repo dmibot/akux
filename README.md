@@ -1,4 +1,4 @@
-# LoL Human Case Rest API WA Bot
+# Private Case Rest API WA Bot
 
 # Installation
 
@@ -27,12 +27,12 @@
 ```
 
 ## Edit config file
-Edit the required value in `config.json`. You can get the api key at [`LoL Human Rest API`](http://api.lolhuman.xyz/).
+Edit the required value in `config.json`. You can get the api key at
 ```json
 {
     "apikey": "",
     "prefix": "/",
-    "owner": "62895418200111"
+    "owner": "yournumber"
 }
 ```
 
